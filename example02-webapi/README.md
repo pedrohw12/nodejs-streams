@@ -1,0 +1,1 @@
+write "type": "module" on package.json allows the use of ecmascripy modules on .js files
